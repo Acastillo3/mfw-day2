@@ -2,7 +2,22 @@
     background-color: yellow;
 }
 .blue{
-    height: 400px;
+    height: 100px;
     background-color: blue;
     margin-top: 50px;
+}
+.green{
+    height: 100px;
+    background-color: green;
+
+
+}
+.red{
+    background-color: red;
+    height: 300px;
+
+}
+.babyblue{
+    background-color: aqua;
+    height: 300px;
 }
